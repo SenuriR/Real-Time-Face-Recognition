@@ -24,7 +24,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/real-time-face-detection.git
+git clone https://github.com/SenuriR/Real-Time-Face-Recognition.git
 cd real-time-face-detection
 
 Install dependencies:
