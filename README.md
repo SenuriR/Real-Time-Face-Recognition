@@ -69,7 +69,4 @@ OpenCV (https://opencv.org/)
 
 Haar cascade face detection models provided by OpenCV
 
-License
-
-This project is open-source and free to use under the MIT License.
 
