@@ -1,6 +1,5 @@
 import cv2
 
-# Try FaceTime HD Camera (index 0); change to 1 or 2 for iPhone cameras
 cap = cv2.VideoCapture(0, cv2.CAP_AVFOUNDATION)
 
 if not cap.isOpened():
